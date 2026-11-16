@@ -1,0 +1,15 @@
+# Local Telegram credentials and diagnostic files
+.env
+.env.*
+!.env.example
+*.log
+*.key
+*.pem
+*.json
+config.local.py
+secrets.py
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
